@@ -34,4 +34,6 @@ Methodologies:
 
 Feel free to reach out if you need any assistance with these technologies! 😊👨‍💻
 
+You can find my up-to-date resume [here](https://file.notion.so/f/s/5acfc4d0-10b2-4ecd-9261-76d632559122/Jorge_Tarantino_Resume_English.pdf?id=4c4fd852-7f42-47d1-91f2-2c4dd7f82a5e&table=block&spaceId=83839c98-0738-4154-985a-48de05ec0766&expirationTimestamp=1687200220442&signature=Kp4GYu1kepkfkVEn3rGlKEu7A74a_1peSZFvHjEO3KA&downloadName=Jorge+Tarantino+Resume+English.pdf).
+
 You can reach me at [taunt.opinion-0t@icloud.com](mailto:taunt.opinion-0t@icloud.com). (This is a real email but with an extra wall layer to protect me from Spam).
