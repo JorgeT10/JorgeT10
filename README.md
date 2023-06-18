@@ -1,16 +1,35 @@
-### Hi there 👋
+👋 Hey there! I'm a highly skilled and versatile .NET developer with a strong command over full-stack development. 💪 Over the years, I've gained extensive experience in infrastructure management, and I must say, delivering outstanding results is my jam! 🚀
 
-<!--
-**JorgeT10/JorgeT10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ As a certified Scrum Master, I bring expertise in agile project management methodologies, ensuring our development processes are efficient and smooth sailing.
 
-Here are some ideas to get you started:
+Adaptability is my secret sauce! 🌟 I effortlessly dive into diverse projects, making the most of my infrastructure expertise. I've got a knack for understanding business requirements and transforming them into effective development and infrastructure strategies. 📈 This paves the way for seamless integration between development and operations teams, resulting in those sweet, successful project outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So, if you're looking for a developer who can handle it all with ease and a touch of relaxation, you've found me! Let's bring some awesomeness to the table. 😎🚀
+
+Some of my currents skills are:
+
+Programming Languages: 
+🔹 JavaScript, C#, HTML5, CSS3, Go, Bash 
+
+Frameworks: 
+🔹 ASP.NET, Entity Framework, Angular, ADO.NET, NUnit, Web API, NHibernate, WPF, MVC, Blazor, .NET Core, .NET
+
+Libraries:
+🔹 Angular Material, SignalR, Bootstrap, Moment.js, rxjs
+
+Cloud:
+🔹 Azure, Google Cloud Platform, AWS
+
+IDEs: 
+🔹 Visual Studio, Visual Studio Code, Rider
+
+Databases: 
+🔹 SQL, MS SQL Server, Postgres, CouchDB
+
+Tools: 
+🔹 IdentityServer4, RabbitMQ, Git, TFS, Azure Devops, GitHub, Jenkins, Docker, Kubernetes, K3s, Helm, Jira, Confluence
+
+Methodologies: 
+🔹 Agile (Scrum), Kanban, SAFe
+
+Feel free to reach out if you need any assistance with these technologies! 😊👨‍💻
